@@ -1,6 +1,6 @@
 # Basic-Java-Projects
 
-The simple java programs are showcasing different practical applications and programming techniques. Even though these are simple console level programs, they provide a deeper understanding on the use cases of each program.
+Console level java programs which are showcasing different practical applications and programming techniques and providing a deeper understanding on the use cases of each program.
 
 **Tic Tac Toe** program is a console-based game implementation demonstrating player input handling, grid management, and winner validation logic. 
 
